@@ -1,4 +1,4 @@
-namn = ""
+namn = ""# ss
 
 #for x in range(3):
 while True:
